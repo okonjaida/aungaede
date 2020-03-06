@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eedoongeey.parisfreire.es/sitemap.xml
